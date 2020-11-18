@@ -1,0 +1,5 @@
+Thank you for registering to receive an API Key.  Your API key is:
+
+mjfB7gxUWBAVjDYVQq8DLLv2P
+
+Please visit the CTA website to review the documentation and to contact us with any problems you have using your new key.

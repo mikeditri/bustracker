@@ -1,0 +1,1 @@
+"C:\Program Files\KNIME_1\knime.exe" -nosave -nosplash -reset -application org.knime.product.KNIME_BATCH_APPLICATION -workflowDir="C:\Users\t891199\knime-workspace\bus_data"
